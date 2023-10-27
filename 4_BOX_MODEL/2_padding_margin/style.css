@@ -1,0 +1,31 @@
+div {
+    border: 4px dotted blue;
+    width: fit-content;
+    font-size: 24px;
+
+    /* padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px; */
+
+    /* shorthand */
+    /* 1 valor: todos lados */
+    /* padding: 20px; */
+
+    /* 2 valores: top e bottom / right e left */
+    /* padding: 30px 50px; */
+
+    /* 3 valores: top / right e left / bottom */
+    /* padding: 20px 50px 5px; */
+
+    /* 4 valores: top / right / bottom / left */
+    padding: 30px 50px 70px 90px;
+
+    /* Extras */
+
+    /* Horizontal */
+    padding-inline: 40px; 
+
+    /* Vertical */
+    padding-block: 20px;
+}
