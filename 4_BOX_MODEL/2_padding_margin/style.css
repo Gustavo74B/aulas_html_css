@@ -1,3 +1,7 @@
+* {
+    margin: 0;
+}
+
 div {
     border: 4px dotted blue;
     width: fit-content;
@@ -28,4 +32,21 @@ div {
 
     /* Vertical */
     padding-block: 20px;
+}
+
+h1 {
+    border: 1px solid red;
+    margin-bottom: 20px;
+}
+
+.algum {
+    margin-bottom: 100px;
+}
+
+.ultimo {
+    margin-top: 50px;
+}
+
+.outro {
+    margin-inline: auto;
 }
